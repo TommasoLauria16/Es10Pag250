@@ -36,7 +36,7 @@ namespace Gestione
             }
             else
             {
-                for (int i = 0; i < array.Length;i++)
+                for (int i = 0; i < array.Length; i++)
                 {
                     Console.Write($"{array[i]} ");
                 }
